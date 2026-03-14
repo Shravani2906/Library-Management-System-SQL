@@ -17,4 +17,9 @@ It manages books, members, and borrowing records.
 3. BorrowRecords
 
 ## ER Diagram
-(er_diagram.png)
+![ER Diagram](er_diagram.png)
+
+## Technologies Used
+- MySQL
+- SQL
+- MySQL Workbench
